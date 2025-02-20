@@ -1,5 +1,6 @@
-![Wii Donut](https://github.com/GabubuAvailable/Wii-Donut/assets/88589756/db71db39-a556-43b0-bd5c-83df42d72420)
+![Wii Donut](https://cdn.tomcat.sh/images/wiibagel.jpg)
 ### made by emilydaemon (formerly known as jornmann)
+### modified by tomcat with a q
 ------
 
 # Description
@@ -10,9 +11,12 @@ Gabubu: "I asked them for permission and they agreed, so I can upload them here 
 
 Official source can be found here: https://donut.eu.org/downloads/wiidonut/
 
+tomcat: I like bagels. :3
+
 `The background song is Addiction by Jogeir Liljedahl.`
 
 
 # Contact the creators
 - jornmann: jornmann@duck.com
 - Andy Sloane: andy@a1k0n.net
+- tomcat with a q: hi@tomcat.sh
