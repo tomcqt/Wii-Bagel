@@ -7,6 +7,7 @@
 #include <string.h>
 #include <math.h>
 
+#define _BSD_SOURCE
 #include "music_mod.h"
 
 static void *xfb = NULL;
