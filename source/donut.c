@@ -113,8 +113,10 @@ int main(int argc, char **argv) {
 			A += 0.00004;
 			B += 0.00002;
 		}
-		usleep(30000);
-
+		for (int i = 0; i < 30; i++) {
+			VIDEO_WaitVSync();
+		}
+	
 		printf(" \x1b[44;37m.----------------------------------------------------------------------------.\x1b[40;37m\n");
 		printf(" \x1b[44;37m|  Wii Bagel v1.0                                     (Press HOME to quit.)  |\x1b[40;37m\n");
 		printf(" \x1b[44;37m|  Based on the original donut.c by Andy Sloane <andy@a1k0n.net>             |\x1b[40;37m\n");
