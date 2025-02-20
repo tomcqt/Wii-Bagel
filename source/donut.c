@@ -115,10 +115,10 @@ int main(int argc, char **argv) {
 		usleep(30000);
 
 		printf(" \x1b[44;37m.----------------------------------------------------------------------------.\x1b[40;37m\n");
-		printf(" \x1b[44;37m|  Wii Donut v1.0                                     (Press HOME to quit.)  |\x1b[40;37m\n");
+		printf(" \x1b[44;37m|  Wii Bagel v1.0                                     (Press HOME to quit.)  |\x1b[40;37m\n");
 		printf(" \x1b[44;37m|  Based on the original donut.c by Andy Sloane <andy@a1k0n.net>             |\x1b[40;37m\n");
 		printf(" \x1b[44;37m|  Ported (copied and pasted) by jornmann <jornmann@duck.com>                |\x1b[40;37m\n");
-		printf(" \x1b[44;37m|  Music by Jogeir Liljedahl                                                 |\x1b[40;37m\n");
+		printf(" \x1b[44;37m|  Modified by tomcat with a q  //  Music by Jogeir Liljedahl                |\x1b[40;37m\n");
 		printf(" \x1b[44;37m'----------------------------------------------------------------------------'\x1b[40;37m");
 		VIDEO_WaitVSync();
 	}
